@@ -7,4 +7,4 @@
 
 运行
 	
-	$ qemu qemu-system-i386 *.img
+	$ qemu qemu-system-i386 -hda *.img
