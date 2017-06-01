@@ -1,0 +1,12 @@
+*.bim
+*.gas
+*.lst
+*.img
+*.obj
+*.bin
+*.hrb
+*.map
+*.sys
+dsctbl.nas
+graphic.nas
+bootpack.nas
