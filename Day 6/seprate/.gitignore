@@ -7,4 +7,6 @@
 *.hrb
 *.map
 *.sys
+dsctbl.nas
+graphic.nas
 bootpack.nas
